@@ -1,0 +1,8 @@
+## 1. Creating Dev and QA catlog
+
+%sql
+create catalog if not exists dev;
+
+
+%sql
+create catalog if not exists qa;
